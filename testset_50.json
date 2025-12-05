@@ -1,0 +1,367 @@
+[
+    {
+        "difficulty": "medium",
+        "question": "Explain why systems of linear equations can have no solution, one solution, or infinitely many.",
+        "answer": "Because it depends on whether their lines intersect once, coincide, or are parallel.",
+        "subject": "algebra",
+        "questionID": "9ff7fab69718536f28cc16cbf9c12a9c65bfb9d299fd55eb3d17672ae06c81bc"
+    },
+    {
+        "difficulty": "easy",
+        "question": "What is the solution to 2x = 10?",
+        "answer": "x = 5.",
+        "subject": "algebra",
+        "questionID": "a131c491174e0f2c300c0eb71f3f8c898fa623b87d3dc8a8c779693ba38ed113"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Explain the impact of nationalism on the collapse of empires in the early 20th century.",
+        "answer": "Ethnic groups demanded self-determination, weakening Austro-Hungarian and Ottoman control.",
+        "subject": "history",
+        "questionID": "a9182fcaedbeb64a35d358f6fb95fe7a87b9d03de80b1ac0e6b2c84ce7dea662"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Explain how urbanization affects local climate and hydrology.",
+        "answer": "Urban heat islands and impermeable surfaces increase temperatures and reduce water infiltration.",
+        "subject": "geography",
+        "questionID": "699c8bee668defd3c9911526fd85093b2c1d8f5ec89e029a483ae97c4964f7e5"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Compare the formation of volcanic island arcs and mid-ocean ridges.",
+        "answer": "Island arcs form at subduction zones; ridges form where plates diverge and magma rises.",
+        "subject": "geography",
+        "questionID": "fa1fabea0b60197ae601bea92a5263dd6af0e1a02e269aa2abbe5e2e30208a86"
+    },
+    {
+        "difficulty": "medium",
+        "question": "Why did the Renaissance begin in Italy?",
+        "answer": "Because of wealth from trade, classical heritage, and patronage by city-states like Florence.",
+        "subject": "history",
+        "questionID": "4da4efc2a565cb70231caeade443e22b3b5fad18f64600e2b1af2f3d693ff94b"
+    },
+    {
+        "difficulty": "easy",
+        "question": "What is the solution to 2x = 10?",
+        "answer": "x = 5.",
+        "subject": "algebra",
+        "questionID": "431f9ddb23698944d04f0f28cf64771d2c76f841550ff0e060acf03f3eb802c4"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Given three points in the plane, explain how to determine if they are collinear using vectors or determinants.",
+        "answer": "Compute the area (via determinant or cross product); if zero, they\u2019re collinear.",
+        "subject": "algebra",
+        "questionID": "38a7ded72dbb71b477383d6826eac992eb03d7009780d4bd82fb6421cab493f4"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Discuss how diagonalization simplifies computing matrix powers.",
+        "answer": "By expressing A as PDP\u207b\u00b9, powers become P D\u207f P\u207b\u00b9, where D\u207f is easy to compute.",
+        "subject": "algebra",
+        "questionID": "20847aa8244f28151cd3b786b62fe0c5b937a06615eabc71e3b221f5f9ec34c6"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Evaluate how ideological rivalry during the Cold War reshaped decolonization movements.",
+        "answer": "Superpowers competed for influence, offering aid or support that shaped political alignments in new nations.",
+        "subject": "history",
+        "questionID": "faace2dadc2e76d5c28857901bbcb62ae61518f32bce6b8015e3d5ce98418414"
+    },
+    {
+        "difficulty": "hard",
+        "question": "How can eigenvalues determine whether a differential system is stable?",
+        "answer": "If all eigenvalues have negative real parts, the equilibrium is stable; positive real parts mean instability.",
+        "subject": "algebra",
+        "questionID": "6791a11eb0aeb7c6dac0ddbddbc33652bc3c8b81d97ff7894ce07ee6e2a41579"
+    },
+    {
+        "difficulty": "hard",
+        "question": "How does permafrost melting influence global carbon cycles?",
+        "answer": "It releases trapped methane and CO\u2082, amplifying greenhouse effects.",
+        "subject": "geography",
+        "questionID": "362de49e664360c93b555cd7d242bc49cc60e0a310caeb77072eb4dc106ae200"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Compare the French and Russian revolutions in causes and outcomes.",
+        "answer": "Both stemmed from inequality and autocracy; the French ended monarchy, the Russian led to communist rule.",
+        "subject": "history",
+        "questionID": "bb2beaf939e3b1b957efe5a4e66fe70522c81288b22d9cee49c1f4dbf0f24b60"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Discuss how industrialization affected gender roles in 19th-century societies.",
+        "answer": "It drew women into factories yet reinforced domestic ideals, creating tension in gender norms.",
+        "subject": "history",
+        "questionID": "cf5d3f0f40a151faffcd1353419492772d7193ca5b2a76041b4a51ed2984ce27"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Discuss how atmospheric circulation and ocean currents maintain arid zones near 30\u00b0 latitude.",
+        "answer": "Descending air from Hadley cells creates dry conditions, while subtropical currents reinforce stability.",
+        "subject": "geography",
+        "questionID": "320b45e1ff0f4639b808b17586bc10d783f9bf4200d2fa0b6afb0112098ee8bd"
+    },
+    {
+        "difficulty": "medium",
+        "question": "Why did the Renaissance begin in Italy?",
+        "answer": "Because of wealth from trade, classical heritage, and patronage by city-states like Florence.",
+        "subject": "history",
+        "questionID": "0195aadd8f02b18d0f1db6232368d21f908102f02b0456742bb902e3a679d3f5"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Prove that det(AB) = det(A)\u00b7det(B).",
+        "answer": "Using properties of linear transformations or row operations, determinant multiplication follows from volume scaling.",
+        "subject": "algebra",
+        "questionID": "fcbeca8d8cb4dee2423d170ebde15c89bf23731065bd47a2993ec597cc8faa32"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Analyze how the Treaty of Versailles' terms contributed to extremist politics in Europe.",
+        "answer": "Economic hardship and resentment over reparations enabled radical ideologies like fascism and Nazism.",
+        "subject": "history",
+        "questionID": "3408bb80cfddf73ae68b9679113c4a0502b61a93db88a2feb09e4ffdee73bcbe"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Explain the impact of nationalism on the collapse of empires in the early 20th century.",
+        "answer": "Ethnic groups demanded self-determination, weakening Austro-Hungarian and Ottoman control.",
+        "subject": "history",
+        "questionID": "1e630df5f43349be620bd12684165d4809bd2508238162e75a271a2e4cdddff2"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Discuss how industrialization affected gender roles in 19th-century societies.",
+        "answer": "It drew women into factories yet reinforced domestic ideals, creating tension in gender norms.",
+        "subject": "history",
+        "questionID": "829af4367a4a14eac69d90806a640f09bdc30f708d7623199b7e65efc4efb689"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Given three points in the plane, explain how to determine if they are collinear using vectors or determinants.",
+        "answer": "Compute the area (via determinant or cross product); if zero, they\u2019re collinear.",
+        "subject": "algebra",
+        "questionID": "f9f04c37e4b017439c0657675193c21791631da5aa3eccee7e4fd966a99191a5"
+    },
+    {
+        "difficulty": "hard",
+        "question": "How can you verify if a transformation preserves vector length?",
+        "answer": "Check if its matrix is orthogonal: A\u1d40A = I implies lengths are preserved.",
+        "subject": "algebra",
+        "questionID": "d6896ded2b6b26bb75c5ddcfc70cea1e6f99a076b09e410e63cbec0d9d4dd900"
+    },
+    {
+        "difficulty": "medium",
+        "question": "Explain why systems of linear equations can have no solution, one solution, or infinitely many.",
+        "answer": "Because it depends on whether their lines intersect once, coincide, or are parallel.",
+        "subject": "algebra",
+        "questionID": "9e9341cd5c3b622c2fb6edaca89e6ae4ac2ae2678529f121e1509850fd5179be"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Prove that det(AB) = det(A)\u00b7det(B).",
+        "answer": "Using properties of linear transformations or row operations, determinant multiplication follows from volume scaling.",
+        "subject": "algebra",
+        "questionID": "e9ac3410aada93c9c2cd4d47f144b27901530aeda7eeb69e84a88cc61350d153"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Discuss how industrialization affected gender roles in 19th-century societies.",
+        "answer": "It drew women into factories yet reinforced domestic ideals, creating tension in gender norms.",
+        "subject": "history",
+        "questionID": "9d87d036891fbc114ee46a9b0a627fc8e72d5217ab0b37fd7dfb866bcb009a7b"
+    },
+    {
+        "difficulty": "medium",
+        "question": "Why did the Renaissance begin in Italy?",
+        "answer": "Because of wealth from trade, classical heritage, and patronage by city-states like Florence.",
+        "subject": "history",
+        "questionID": "fd84aa047cae7c228e2a564982e546610176ac2bfed00d05d1e00acc1131c8a6"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Prove that if a matrix has two identical rows, its determinant is zero.",
+        "answer": "Because row interchange changes determinant sign; identical rows make it equal to its negative, forcing it to be zero.",
+        "subject": "algebra",
+        "questionID": "9deeba72918d3edf83aa2ef2ab34e7df84b2ee061b7667f08bebd324b65ca652"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Compare the formation of volcanic island arcs and mid-ocean ridges.",
+        "answer": "Island arcs form at subduction zones; ridges form where plates diverge and magma rises.",
+        "subject": "geography",
+        "questionID": "0a19d9bb50a0d596816d5547832dfc243f9827b8d6ce99fd7061ce1f453d4a42"
+    },
+    {
+        "difficulty": "medium",
+        "question": "Explain how latitude influences solar radiation and temperature.",
+        "answer": "Lower latitudes receive more direct sunlight, leading to warmer climates.",
+        "subject": "geography",
+        "questionID": "163ecca980c99c233f7c820c760f5ef9776210a21c07a3efe93a151d75ab2683"
+    },
+    {
+        "difficulty": "medium",
+        "question": "How did industrialization alter social class structures in 19th-century Europe?",
+        "answer": "It created new urban working and middle classes, changing power and labor relations.",
+        "subject": "history",
+        "questionID": "72f0f5b54f9a28e2999af04313e285dac081bcfa4936522a546a2ccec15aab90"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Assess how global trade networks of the 16th century transformed European power.",
+        "answer": "Colonial wealth fueled mercantilism, strengthening maritime nations like Spain and Portugal.",
+        "subject": "history",
+        "questionID": "4dc1c9aee8f364756d5d0b177e66085f833a960089a9ac7d8d583073a6917fbb"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Assess how global trade networks of the 16th century transformed European power.",
+        "answer": "Colonial wealth fueled mercantilism, strengthening maritime nations like Spain and Portugal.",
+        "subject": "history",
+        "questionID": "af5172ac39612a6b4441b57365c588a8d4ca59b983b612322a9c790488e885fe"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Prove that if a matrix has two identical rows, its determinant is zero.",
+        "answer": "Because row interchange changes determinant sign; identical rows make it equal to its negative, forcing it to be zero.",
+        "subject": "algebra",
+        "questionID": "02a38c4b08fdf3f9b15724ae21835c2f4ad61bfcff4eb7be1d2345f4926b32ef"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Analyze how El Ni\u00f1o events impact global agriculture and economies.",
+        "answer": "By altering rainfall and temperature, El Ni\u00f1o disrupts crops, fisheries, and trade worldwide.",
+        "subject": "geography",
+        "questionID": "5a4bc6168c3861b1b6a2210f913b090b8590f51f9a577c74e1fae1e97d4e4f9d"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Prove that if a matrix has two identical rows, its determinant is zero.",
+        "answer": "Because row interchange changes determinant sign; identical rows make it equal to its negative, forcing it to be zero.",
+        "subject": "algebra",
+        "questionID": "2d1ac80e4f6a53312c9cbbcdf5cec3c087a72880116e73868b599ae0be541a2b"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Given three points in the plane, explain how to determine if they are collinear using vectors or determinants.",
+        "answer": "Compute the area (via determinant or cross product); if zero, they\u2019re collinear.",
+        "subject": "algebra",
+        "questionID": "1194dbaf6eb3197c8b2695144ca730aa6793f41fe396e339e81cb5ce910f8b92"
+    },
+    {
+        "difficulty": "medium",
+        "question": "Explain how the Enlightenment challenged traditional authority.",
+        "answer": "By emphasizing reason, science, and individual rights over monarchy and church doctrines.",
+        "subject": "history",
+        "questionID": "fef955c64266743fc076062b05d7ced31babce633d278c47a0295bfcdd84fd40"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Prove that if a matrix has two identical rows, its determinant is zero.",
+        "answer": "Because row interchange changes determinant sign; identical rows make it equal to its negative, forcing it to be zero.",
+        "subject": "algebra",
+        "questionID": "f3c4ee24e9a5f7342e1b5e81e421d409853dd478e4e9663bf0f2dc2d7735814e"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Explain how urbanization affects local climate and hydrology.",
+        "answer": "Urban heat islands and impermeable surfaces increase temperatures and reduce water infiltration.",
+        "subject": "geography",
+        "questionID": "4dec7752b04edde98bc29d9b0a91543f2c2ff9b73eb0f56ae3d1703f5e4de219"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Discuss how industrialization affected gender roles in 19th-century societies.",
+        "answer": "It drew women into factories yet reinforced domestic ideals, creating tension in gender norms.",
+        "subject": "history",
+        "questionID": "1d655404341006d88e440368c5723c225aa760929bec6cb442e5eeffd20c86c5"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Discuss how diagonalization simplifies computing matrix powers.",
+        "answer": "By expressing A as PDP\u207b\u00b9, powers become P D\u207f P\u207b\u00b9, where D\u207f is easy to compute.",
+        "subject": "algebra",
+        "questionID": "6a109062ceae5605524a8c1cb3db7d7c1024144b3fdda68683491eb0fdbc4579"
+    },
+    {
+        "difficulty": "hard",
+        "question": "How can you verify if a transformation preserves vector length?",
+        "answer": "Check if its matrix is orthogonal: A\u1d40A = I implies lengths are preserved.",
+        "subject": "algebra",
+        "questionID": "45b6016a436827a2a490d27151245563eb3b59ed7b519e0fa6d800eaf9cc1110"
+    },
+    {
+        "difficulty": "medium",
+        "question": "Explain how latitude influences solar radiation and temperature.",
+        "answer": "Lower latitudes receive more direct sunlight, leading to warmer climates.",
+        "subject": "geography",
+        "questionID": "24f29f3ab45cfeac9c4874ce1fbd49089dc6abe02b81e32765587ad1d90cc592"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Given three points in the plane, explain how to determine if they are collinear using vectors or determinants.",
+        "answer": "Compute the area (via determinant or cross product); if zero, they\u2019re collinear.",
+        "subject": "algebra",
+        "questionID": "38dd7a9e739d4f3fbd87c7247d59a5af83e6256d6459a744acc3c66d1581065e"
+    },
+    {
+        "difficulty": "medium",
+        "question": "How is the quadratic formula derived from completing the square?",
+        "answer": "By isolating x in the general quadratic equation ax\u00b2 + bx + c = 0 after completing the square.",
+        "subject": "algebra",
+        "questionID": "90238f9d9581bf224dbf25aef1442fb5e5d15342fb1e56dd3c874a1c5955a0f6"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Simplify: 3(x + 2).",
+        "answer": "3x + 6.",
+        "subject": "algebra",
+        "questionID": "f8a0440b6a880bd997f2c9863d928c4f1890b8a66b8a9622413409b2cde42ca3"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Compare the French and Russian revolutions in causes and outcomes.",
+        "answer": "Both stemmed from inequality and autocracy; the French ended monarchy, the Russian led to communist rule.",
+        "subject": "history",
+        "questionID": "ced4243b6dadacf5c45ec54599c990db2ccd41bf9ce38204d5eccd0cce0dfb50"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Prove that det(AB) = det(A)\u00b7det(B).",
+        "answer": "Using properties of linear transformations or row operations, determinant multiplication follows from volume scaling.",
+        "subject": "algebra",
+        "questionID": "6fdb7169ff013a68e62380a75f1f4c8988e797d0ae05bbd40edd38fb9e849f81"
+    },
+    {
+        "difficulty": "easy",
+        "question": "Simplify: 3(x + 2).",
+        "answer": "3x + 6.",
+        "subject": "algebra",
+        "questionID": "2f472a31e528df67c88d99dbad9928744b5fe007aae95d99e33ad8ae8d04ab8d"
+    },
+    {
+        "difficulty": "medium",
+        "question": "How is the quadratic formula derived from completing the square?",
+        "answer": "By isolating x in the general quadratic equation ax\u00b2 + bx + c = 0 after completing the square.",
+        "subject": "algebra",
+        "questionID": "c50105ca015eff0a34d5b2542609f16109a5dc566fe0fa503a69a128f8ad3118"
+    },
+    {
+        "difficulty": "medium",
+        "question": "How did industrialization alter social class structures in 19th-century Europe?",
+        "answer": "It created new urban working and middle classes, changing power and labor relations.",
+        "subject": "history",
+        "questionID": "1a8892a8b9e5c95d0e820cd90c4e637c5002722cbb010483b6c600c605908050"
+    },
+    {
+        "difficulty": "hard",
+        "question": "Discuss how industrialization affected gender roles in 19th-century societies.",
+        "answer": "It drew women into factories yet reinforced domestic ideals, creating tension in gender norms.",
+        "subject": "history",
+        "questionID": "c4f4d4f928feff670a5794692a553f99830f5d709df30854f78e58802b56739a"
+    }
+    
+]
