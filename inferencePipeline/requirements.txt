@@ -1,0 +1,22 @@
+# GPU Inference Framework
+torch  # Use server's pre-installed version with CUDA support
+xformers  # Use server's version to match torch
+
+# Core Dependencies
+vllm
+transformers
+tokenizers
+safetensors
+huggingface-hub
+
+# vLLM Dependencies
+ray
+fastapi
+uvicorn
+pydantic
+aiohttp
+
+# Utilities
+psutil
+pynvml
+numpy

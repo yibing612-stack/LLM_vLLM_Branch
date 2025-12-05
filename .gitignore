@@ -1,0 +1,21 @@
+inferencePipeline/models/
+inferencePipeline/chroma_db/
+resources/
+*.xlsx
+demo/
+models-gguf/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# Project ignores
+TaskDescription.md
+GIT_COMMANDS.md
+results/
+inferencePipeline/vendor_wheels/
